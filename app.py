@@ -42,7 +42,8 @@ COLUMN_MAPPINGS = {
         'units', 'unit_count', 'unit count', 'total_units', 'total units',
         'total managed units', 'num_units', 'num units', 'number_of_units',
         'number of units', '# units', '#units', 'unit_total', 'unit total',
-        'apt_count', 'apartment_count', 'doors'
+        'apt_count', 'apartment_count', 'doors', 'contracted_units',
+        'contracted units', 'contract_units', 'contract units'
     ],
     'ownership_group_name': [
         'ownership_group_name', 'ownership group name', 'ownership_group',
